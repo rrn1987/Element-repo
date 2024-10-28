@@ -1,0 +1,1 @@
+CLT - c:\Program Files\Rohde-Schwarz\Contest\19\GUI\Bin>RohdeSchwarz.Contest.CommandLineInterface.exe -at d:\Alltestcases.xml

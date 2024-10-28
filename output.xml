@@ -1,0 +1,2599 @@
+<?xml version='1.0' encoding='utf8'?>
+<TestCenter>
+  <Testplan Name="Section Protocol_NR Carrier Aggregation" GUID="f34cbed2-b95e-40d1-bfdb-a48de5d1ea12" Description="" FormatNumber="6">
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="79" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="82" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="83" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="87" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="88" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="89" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="90" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="91" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="92" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="95" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="96" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="97" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="98" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="99" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="100" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="103" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="104" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="105" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="106" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="108" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="109" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="111" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="112" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="113" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="116" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="117" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="118" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="119" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="120" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="121" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="122" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="123" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="124" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="125" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="126" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="127" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="128" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="129" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="132" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="133" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="134" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="135" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="136" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="137" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="138" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="139" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="140" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="141" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="142" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="143" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="144" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="145" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="146" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="147" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="148" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="149" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="150" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="151" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="152" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="153" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="154" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="155" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="156" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="157" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="158" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="159" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="160" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="161" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="162" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="163" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="164" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="165" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="168" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="169" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="170" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="171" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="172" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="175" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="176" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="177" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="178" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="179" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="182" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="183" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="185" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="186" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="187" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="188" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="189" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="190" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="193" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="194" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="195" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="196" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="197" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="200" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="201" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="203" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="204" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="205" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="206" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="207" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="208" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="209" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="210" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="212" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="215" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="216" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="218" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="223" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="224" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="226" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="227" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="228" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="231" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="232" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="234" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="235" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="236" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="237" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="238" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="241" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="245" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="246" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="247" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="248" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="249" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="250" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="251" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="252" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="253" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="254" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="255" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="258" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="259" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="260" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="261" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="262" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="265" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="266" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="268" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="269" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="271" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="272" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="273" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="274" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="275" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="276" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="277" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="278" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="279" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="280" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="281" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="283" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="284" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="285" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="286" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="287" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="288" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="289" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="290" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="293" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="294" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="297" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="298" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="301" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="302" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="305" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="306" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="309" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="310" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="313" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="314" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="317" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="318" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="321" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="322" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="372" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="376" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Parameter Direction="IN" Signature="">
+      <ParameterReferenced Name="MaxTestRunTime" Type="System.Int32" StepID="381" Unit="msec" Epsilon="0" IsBaseParam="true" />
+    </Parameter>
+    <Sequence>
+      <Step StepGUID="e3a2d3f7-2aff-4513-9edd-571419d618f5" ID="1" CloseAfterStepID="1" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="2fa32fe1-2553-4650-8ef7-eb9c6571a407" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7d74f436-c7df-4e75-8c0d-94a7cc4a1e0a" ID="2" CloseAfterStepID="2" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9ed362d2-491d-41e5-ac7b-435e61d0c205" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4431293a-9506-4f67-b7ad-466b4ba46d0b" ID="3" CloseAfterStepID="3" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6f93a767-e783-4334-b825-7d61ea97344d" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_1_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b536a753-67ca-44be-b09d-35072c2622a8" ID="4" CloseAfterStepID="4" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6070b2bf-92f0-4e90-88ba-e6de571a082c" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_1_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="88bdb136-a8e5-4876-b343-0df3f092a061" ID="5" CloseAfterStepID="5" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="65e1b77c-31b1-4b18-a857-ee756f71bd67" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_with_Scell_act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="16011a05-9f83-44aa-bb6a-3948d5bf0dce" ID="6" CloseAfterStepID="6" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1f36ed2a-f501-4fb0-9140-2b04d727224d" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_with_Scell_act_Deact_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7e68b098-da47-4403-92cd-beadca0fec7c" ID="7" CloseAfterStepID="7" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c49836ec-72d4-4a30-9dd7-25b48eff320e" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_with_Scell_act_Deact_2_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e3d5c7ec-9067-44fc-a577-1c0e8dd27d3a" ID="8" CloseAfterStepID="8" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="2e94797d-be03-46bf-9264-996e865184fd" Version="9.2.2.0" Name="L_NRCA_2541_458996_DL_Near_Cell_with_Scell_act_Deact_2_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ecb2ed68-03ef-44f0-bc0a-7c9cc9fec728" ID="9" CloseAfterStepID="9" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="5c360ce6-d116-4e97-94f3-b53fc4d40b13" Version="9.2.2.0" Name="L_NRCA_2541_458996_E911_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="80d02c88-b572-46f2-a972-865cd4ae67a9" ID="10" CloseAfterStepID="10" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6bb4f03b-902e-4b7c-a6f1-3db3361e69ef" Version="9.2.2.0" Name="L_NRCA_2541_458996_RLF_Abrupt_18_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6c1eca28-4a39-4664-8c8b-32cad3ae3de9" ID="11" CloseAfterStepID="11" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="7f2061d3-7653-4657-8e76-d76f7cb209bb" Version="9.2.2.0" Name="L_NRCA_2541_458996_RLF_Gradual_19_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2f9aab1b-e8da-4e1b-914c-988ce01e6806" ID="12" CloseAfterStepID="12" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="bc85a6cd-e2e7-4b35-ab20-a6f1e41a4e92" Version="9.2.2.0" Name="L_NRCA_2541_458996_RLF_RLM_Recovery_21_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f16abecc-e5ef-451d-a984-2576c43d16b2" ID="13" CloseAfterStepID="13" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c6ac2ffb-cb8a-468c-a934-6d0626010da3" Version="9.2.2.0" Name="L_NRCA_2541_458996_SMS_Text_Incoming_Far_Cell_11_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a4534602-ea5a-4bc7-bae6-612476bd5ad3" ID="14" CloseAfterStepID="14" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="2d46c573-1c82-4c47-8250-dfc20418ea37" Version="9.2.2.0" Name="L_NRCA_2541_458996_SMS_Text_Outgoing_Near_Cell_10_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="46a62181-67ca-4962-ad21-5c3573903ca6" ID="15" CloseAfterStepID="15" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="469ac6b9-d3b9-4314-8d87-8ca1546ef9aa" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3ac483d9-7d12-4480-9f94-1af8802e1312" ID="16" CloseAfterStepID="16" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f6fdb092-36c7-438c-bc13-d9b4e9741d3c" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="88faa7c7-9309-4a7b-806b-500c68446567" ID="17" CloseAfterStepID="17" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="54387362-3790-4e15-a15d-3b5b1a5366da" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_3_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="770cde2d-1a0a-4b55-99da-2ef31dd5a06f" ID="18" CloseAfterStepID="18" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="eb1cfc40-c7cf-464c-8e59-89b387916ba7" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_3_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="048fda6d-e66d-4f1f-ab1b-46e429ec2240" ID="19" CloseAfterStepID="19" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="43b2fbf9-7dcf-4c94-88ee-e693442a44a1" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_with_Scell_act_Deact_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="be3cedac-a91a-46ba-8547-94b020209bda" ID="20" CloseAfterStepID="20" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="809346c7-95fc-48d1-8465-e05b1f680235" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_with_Scell_act_Deact_4_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a6a0243d-fa66-4f18-bc77-ff28ed44a43c" ID="21" CloseAfterStepID="21" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ac4ec1f0-d7d8-4e36-a4be-914d48ca1be1" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_with_Scell_act_Deact_4_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bfccbcfd-3ca5-4192-bcf3-2971462c4609" ID="22" CloseAfterStepID="22" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8ffcbeff-f98b-4c9d-9e23-c838f92ef513" Version="9.2.2.0" Name="L_NRCA_2541_458996_Video_Origination_7_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="86333e7f-36bb-48a3-bf45-bd4f84fdf112" ID="23" CloseAfterStepID="23" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="0708f59b-6590-4e41-8bf3-4c937bee1ca8" Version="9.2.2.0" Name="L_NRCA_2541_458996_Video_Termination_8_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e88091d7-94fa-4dda-ba3c-18eb311c4cef" ID="24" CloseAfterStepID="24" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ff072d6c-2b53-42ac-a154-48b0303c3e3e" Version="9.2.2.0" Name="L_NRCA_2541_458996_Voice_Origination_Near_Cell_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="44e6e0b1-0cf6-423f-9ef0-a2a3c4a0f082" ID="25" CloseAfterStepID="25" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="add23de2-e958-400f-9860-6959aee1ebc7" Version="9.2.2.0" Name="L_NRCA_2541_458996_Voice_Termination_Far_Cell_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0801e78d-1893-469c-9056-30dd71d35ed8" ID="26" CloseAfterStepID="26" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b8cc7d94-4c94-41c3-a74b-34f2b1dcb9a5" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8ff156da-9106-43b4-9f31-3c6c3a4cacb4" ID="27" CloseAfterStepID="27" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="38a84739-c4f2-4eff-902d-5e2b3c29cc07" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="cc6e2967-e4ff-4b2b-9b79-e61b379b7f2c" ID="28" CloseAfterStepID="28" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="7106518c-fed3-410e-8491-86d71d390e41" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_1_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="fc297848-018d-4bde-af03-f065a1b40008" ID="29" CloseAfterStepID="29" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="34ad0254-92ce-4341-a213-5de38df1d3d6" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_1_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="88a0b36b-431e-4cc0-8641-99407489dd43" ID="30" CloseAfterStepID="30" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="046d02e0-2396-4d9e-9dab-bde46c9407a5" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_with_Scell_act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6eb479c1-6d3a-44c1-a440-06f3b44e6c9e" ID="31" CloseAfterStepID="31" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b1abbe80-8944-42d8-8b4d-b8b9a28adba9" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_with_Scell_act_Deact_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="59b5a92f-4bf4-4c31-aefd-12e33722345d" ID="32" CloseAfterStepID="32" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="4729ebba-1089-40d5-8e83-d8daabacf47d" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_with_Scell_act_Deact_2_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b143cb98-d80b-4377-9d8d-2b5ca41a3da0" ID="33" CloseAfterStepID="33" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9bd08f47-d023-4258-b1ad-58a9bf083669" Version="9.2.2.0" Name="L_NRCA_6641_458996_E911_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="95779d96-fc1e-47c6-9bbf-a55efbb59557" ID="34" CloseAfterStepID="34" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="306c82ff-e599-4a25-884d-c3ad0927a07e" Version="9.2.2.0" Name="L_NRCA_6641_458996_RLF_Abrupt_18_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="fb8ba8af-eee7-452f-b450-79eb065c1ead" ID="35" CloseAfterStepID="35" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="e5df7632-18bb-4dd2-a1cd-9eb372331b4b" Version="9.2.2.0" Name="L_NRCA_6641_458996_RLF_Gradual_19_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1309150a-4471-41ed-9329-cbb3cf331feb" ID="36" CloseAfterStepID="36" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ff5b6024-e2e1-4d81-87a0-45a6779851da" Version="9.2.2.0" Name="L_NRCA_6641_458996_RLF_RLM_Recovery_21_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6bee6e4b-be3b-4f85-8cea-5ecc84065e28" ID="37" CloseAfterStepID="37" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="4ac7a423-6e3b-4eb5-871a-aeddbb6f7235" Version="9.2.2.0" Name="L_NRCA_6641_458996_SMS_Text_Incoming_Far_Cell_11_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f5a2eb3e-39a6-48bd-a23a-ec86fc4a6e19" ID="38" CloseAfterStepID="38" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="638a8f6c-55a2-4edd-9516-4cfadc541695" Version="9.2.2.0" Name="L_NRCA_6641_458996_SMS_Text_Outgoing_Near_Cell_10_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d481bd3e-05e1-4582-aa3b-b85f5c98eb1c" ID="39" CloseAfterStepID="39" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="41e1394c-5f12-4574-b606-c3b76fe7daed" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d151c9ad-7af8-4b2f-9131-781c0ee42760" ID="40" CloseAfterStepID="40" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="aba2fae3-3e1a-4a0d-a136-5436679e5930" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a8d101f6-cd2f-4291-a12d-5c5331fb910b" ID="41" CloseAfterStepID="41" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="bd2cc839-5d80-4cb4-b9ee-5da0a2f7d05d" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_3_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="afb635e2-54fe-49ad-8cdb-de8d1a45f633" ID="42" CloseAfterStepID="42" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1c81caca-86db-460f-959a-42b83c061db0" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_3_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bc31b967-d589-48ff-bee7-91fc6bdc5946" ID="43" CloseAfterStepID="43" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9a9ee1fb-594b-4194-813e-21deaeabe50f" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_with_Scell_act_Deact_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ca5ad887-ae91-4228-8b69-8a5a64c978e5" ID="44" CloseAfterStepID="44" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c0cda490-8a5a-490c-a06d-2dd4d4d5fa6e" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_with_Scell_act_Deact_4_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="57e72ccf-e437-4121-8711-af99b1321099" ID="45" CloseAfterStepID="45" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="0e7b7218-2aa5-4660-8491-1c7afc592f44" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_with_Scell_act_Deact_4_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5a596b62-e28c-4780-ab19-ac84ed975d8b" ID="46" CloseAfterStepID="46" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a3c14e9b-6dad-46ed-bac8-ad8d28387da1" Version="9.2.2.0" Name="L_NRCA_6641_458996_Video_Origination_7_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4606ade4-3418-4506-a8ab-37a8095f9414" ID="47" CloseAfterStepID="47" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="98998006-c06d-4ef7-8031-ae78e1a3c441" Version="9.2.2.0" Name="L_NRCA_6641_458996_Video_Termination_8_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d4de6e1e-23d6-41e6-9071-427a73a9ff84" ID="48" CloseAfterStepID="48" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="bb92039b-88c2-4e92-b803-2c67096b9bfa" Version="9.2.2.0" Name="L_NRCA_6641_458996_Voice_Origination_Near_Cell_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3422a47b-ba40-4c35-9684-ae0423bc57e6" ID="49" CloseAfterStepID="49" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6af494ca-efbf-4d98-953d-a8b1941088a9" Version="9.2.2.0" Name="L_NRCA_6641_458996_Voice_Termination_Far_Cell_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e39f17c6-f6a5-4880-9d4c-cba738fd77ac" ID="50" CloseAfterStepID="50" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c7968c34-389f-48a5-8784-b1675a327a36" Version="9.2.2.0" Name="L_NRCA_458996_DL_Near_Cell_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9a168a0b-eb20-486a-bde9-d858d5c98fe5" ID="51" CloseAfterStepID="51" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="86cfc295-9327-44ab-8a55-2a559956bfc0" Version="9.2.2.0" Name="L_NRCA_458996_DL_Near_Cell_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="102d6fcc-64e8-4448-896a-6c6de3629a07" ID="52" CloseAfterStepID="52" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="3336f023-fcee-46d9-9081-f756aa24e9f0" Version="9.2.2.0" Name="L_NRCA_458996_DL_Near_Cell_1_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b96b62b1-af49-478c-8928-63e9edfe54ea" ID="53" CloseAfterStepID="53" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="acd0657a-3ec1-41c7-8ff4-2b04ec96f6a6" Version="9.2.2.0" Name="L_NRCA_458996_DL_Near_Cell_with_Scell_actDeact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a24aaeec-ab3d-4d59-ae63-f56f91875d91" ID="54" CloseAfterStepID="54" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="4c85236f-7835-4c78-a2d3-623e164d33bd" Version="9.2.2.0" Name="L_NRCA_458996_DL_Near_Cell_with_Scell_actDeact_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b5c91961-bf28-43a8-a619-e8e5334e17cb" ID="55" CloseAfterStepID="55" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="2c6d69af-14d4-48a0-9b19-179ad97ea140" Version="9.2.2.0" Name="L_5G_CA_458996_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7d8d3d52-5501-4e44-ae0d-d83d8a58276f" ID="56" CloseAfterStepID="56" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ee371511-ea3f-4391-b1e6-bc42f527ec8b" Version="9.2.2.0" Name="L_5G_CA_458996_15_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0316fbe0-4141-474c-a2c8-0f86e4205556" ID="57" CloseAfterStepID="57" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1e4bde79-3b8d-405d-9f30-7f43f4299195" Version="9.2.2.0" Name="L_5G_CA_458996_18_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5ecc43d6-3f92-42cb-ab39-6140a0608365" ID="58" CloseAfterStepID="58" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8c7fc317-abf5-44bf-89f9-c75407496db6" Version="9.2.2.0" Name="L_5G_CA_458996_20_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="39b7f123-d48e-4c94-978e-67125ee27b84" ID="59" CloseAfterStepID="59" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="767dfe2f-aaff-431e-b167-9a5558a82d3c" Version="9.2.2.0" Name="L_5G_CA_458996_19_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="235f397f-9656-48ae-adb9-6a62084d4e6d" ID="60" CloseAfterStepID="60" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b4593d04-1d3f-494a-87d4-8bc01c79efc8" Version="9.2.2.0" Name="L_5G_CA_458996_21_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d96ac468-efec-4e22-9619-555bbafb5841" ID="61" CloseAfterStepID="61" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="5389d9e4-71aa-478a-a37b-4a2dd877d32c" Version="9.2.2.0" Name="L_5G_CA_458996_11_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7aee600e-fe1e-4e27-b05f-ffd69f549158" ID="62" CloseAfterStepID="62" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8540d617-6b98-4629-92a4-9df8fdd9f1d0" Version="9.2.2.0" Name="L_5G_CA_458996_10_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0ae52586-1f7d-4200-86c8-d9d7dd74c8cf" ID="63" CloseAfterStepID="63" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="433cce75-6534-4d8d-9fef-9ddc10781bc2" Version="9.2.2.0" Name="L_NRCA_458996_DL_Cell_Near_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f979a9fc-4a3c-4e4f-8d60-e2be933708a6" ID="64" CloseAfterStepID="64" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="72379608-08d7-46f4-b594-e66c3f230a38" Version="9.2.2.0" Name="L_NRCA_458996_DL_Cell_Near_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="576c7929-e8ca-4a51-860d-32cc060ec6dd" ID="65" CloseAfterStepID="65" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="03e0a22e-8768-4658-afe8-47a292690918" Version="9.2.2.0" Name="L_NRCA_458996_DL_Cell_Near_3_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bd4c424b-9023-422e-ab1e-10ea7911d319" ID="66" CloseAfterStepID="66" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9c42ac3a-9dcf-4d62-9084-222b885b7254" Version="9.2.2.0" Name="L_NRCA_458996_UL_Near_Cell_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ee3ed0f5-4949-4a0c-910e-5b4d8e81accf" ID="67" CloseAfterStepID="67" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="fb0b7601-2b97-4ef7-8d1f-df9aed3076f3" Version="9.2.2.0" Name="L_NRCA_458996_UL_Near_Cell_4_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ba29fe8c-46f6-48a8-9302-7687fd98941f" ID="68" CloseAfterStepID="68" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="3edf3482-9ad9-4f45-a41c-c0dca08879fe" Version="9.2.2.0" Name="L_5G_CA_458996_7_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c7853d99-19d6-4b64-b2e5-a6a6543c4277" ID="69" CloseAfterStepID="69" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d513d621-7bef-4b70-b4c9-2964c1ffb605" Version="9.2.2.0" Name="L_5G_CA_458996_8_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b8b12381-222a-47d9-b483-4bd84da3e983" ID="70" CloseAfterStepID="70" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="93b75496-7fe6-469b-a8b3-01d404295637" Version="9.2.2.0" Name="L_5G_CA_458996_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a17ebd48-fb8d-4c20-8845-a3c38c45b3ab" ID="71" CloseAfterStepID="71" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="0c81ffbd-1d6a-48a0-9adf-3cba7d6d25d5" Version="9.2.2.0" Name="L_5G_CA_458996_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="155078e0-d873-423c-9c01-923886b103db" ID="72" CloseAfterStepID="72" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="2105e686-3dfa-447c-b48a-6a7c6c00c6d0" Version="9.2.2.0" Name="L_NRCA_2541_458996_CDRX_OFF_DL_25_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a9d532fe-146b-4217-8f52-93cfdda83a3b" ID="73" CloseAfterStepID="73" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="79001dab-cdbc-434c-81f1-1faecfb4cfff" Version="9.2.2.0" Name="L_NRCA_2541_458996_CDRX_OFF_UL_27_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="cdc9f907-e029-4a7d-a00d-ba150a69ae54" ID="74" CloseAfterStepID="74" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="cfd880d2-1b7b-4c62-8be0-db1adc9f873a" Version="9.2.2.0" Name="L_NRCA_2541_458996_CDRX_ON_DL_24_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0c414280-649b-4327-8d61-255ffaf0834a" ID="75" CloseAfterStepID="75" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f31c8d3e-23c2-47d6-b59c-40782c3ef3e5" Version="9.2.2.0" Name="L_NRCA_2541_458996_CDRX_ON_UL_26_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b5e5c638-6f63-4a34-88ce-56e920fc548c" ID="76" CloseAfterStepID="76" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c1057aa0-9e85-4342-b505-fe8794332a51" Version="9.2.2.0" Name="L_NRCA_2541_458996_CDRX_Ping_Latency_23_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0ae725d3-08ef-4cf9-bbbd-5b2409a1ffe5" ID="77" CloseAfterStepID="77" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="4d9b33a0-a46c-4c72-9af8-284086ed3ada" Version="9.2.2.0" Name="L_NRCA_2541_458996_RLF_Gradual_Diff_TDD_Cell_20_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e1d6d587-bf1d-4341-bdf6-e7da6fce9c26" ID="78" CloseAfterStepID="78" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8ba6f2c6-30aa-46e7-92f2-375677f66c56" Version="9.2.2.0" Name="L_NRCA_2541_458996_UL_Near_Cell_with_Scell_act_Deact_4_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2ce7c3d7-dc58-4f31-95de-51a8f7caefda" ID="79" CloseAfterStepID="79" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="51595845-cff7-4dfe-a14f-38b51555fbc1" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_19">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ac5cc734-37f2-4909-9c50-9a03c0234583" ID="80" CloseAfterStepID="80" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="7c4db8cd-8c9c-4de3-90d8-0f9da1d9033c" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a23b40fd-4a22-44ac-a6b1-c3c3242637ff" ID="81" CloseAfterStepID="81" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="70eb75dc-fa2e-482d-a256-7b3ae3160a33" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="96f1d7bc-137f-409f-a124-0f7443aa836a" ID="82" CloseAfterStepID="82" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="b2e2f8da-1f3a-4757-a317-2e92b3bb0d09" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_17">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ff33f803-23a9-4b3e-a262-2402b9fdd0f6" ID="83" CloseAfterStepID="83" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="911b5b54-d090-415d-819c-8a1c93c54da6" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_18">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="96262959-15f1-4fe1-8dc1-0d10d38b4472" ID="84" CloseAfterStepID="84" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="70bb14f1-c564-4be0-99d2-e9b50bf3939d" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="446c3235-8412-426f-9fe3-92fb1306149f" ID="85" CloseAfterStepID="85" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="23e1b6cb-cb16-4368-85b2-a7154f1bb9cd" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a655bb5b-3c91-44dc-8190-869bb13cb3ba" ID="86" CloseAfterStepID="86" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="91f3f2cf-5c35-4b64-90e9-960034f05aaf" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_10">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5ee3660a-7497-4813-ba8d-0a93ae9d13c0" ID="87" CloseAfterStepID="87" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="f785189b-2673-473b-a89a-d2a1ef6081de" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_11">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0cb50c21-7978-4047-9797-627dadc606ec" ID="88" CloseAfterStepID="88" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="fe54d89e-7cd5-4dc7-9bed-a09760d4c31c" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="863c91e6-8420-463f-ae0c-7f4f9761638b" ID="89" CloseAfterStepID="89" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="86ffc8bf-8ee6-466e-8d0e-2237146e5c5a" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f97ebd2d-e7a4-4f37-baa4-f18607f9f807" ID="90" CloseAfterStepID="90" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="614221ad-3645-4200-8283-39ff33d67499" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1678612c-80e4-4e87-9cf1-27774d4ed8fb" ID="91" CloseAfterStepID="91" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="9c4f20ea-4f48-4c43-8b74-4a9986451e73" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2086d2bf-2e58-45fe-8c59-dcb839e1e253" ID="92" CloseAfterStepID="92" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c10ccf00-2691-40ea-86e9-e7db47b57e74" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3f6341f4-94a6-4f02-88ec-336397998a3c" ID="93" CloseAfterStepID="93" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="132ac14e-8659-412f-943c-1ef0c375b15e" Version="9.2.2.0" Name="L_NRCA_4166_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d61b37c0-7c58-4cf0-9e55-a997390475f0" ID="94" CloseAfterStepID="94" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ea0913af-f8c2-4fca-bdb9-b0c6679da52a" Version="9.2.2.0" Name="L_NRCA_4166_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a75e075f-b279-4f6e-b25d-4c981eb977d3" ID="95" CloseAfterStepID="95" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="7cb1c482-fc02-49b6-8b30-0f275497220e" Version="9.2.2.0" Name="L_NRCA_4166_458996_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d1911ae1-878e-42d4-b211-5ec6cafaa312" ID="96" CloseAfterStepID="96" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="55d50028-a340-4059-874c-18120d976b50" Version="9.2.2.0" Name="L_NRCA_4166_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0bb2ff03-b54c-4499-8ef1-4d4f2369e79f" ID="97" CloseAfterStepID="97" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5eaa8cc6-42d9-47c4-be28-08e5212031a7" Version="9.2.2.0" Name="L_NRCA_4166_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3c77849d-763f-49f0-8c76-7ff971d00bf0" ID="98" CloseAfterStepID="98" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="b94bb4b6-24c9-482d-b5d2-830680fab232" Version="9.2.2.0" Name="L_NRCA_4166_458996_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="837982ba-409b-4dbc-b023-cfc7d1c71d46" ID="99" CloseAfterStepID="99" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d9e315b6-9488-4e2c-b219-5fc33488153d" Version="9.2.2.0" Name="L_NRCA_4166_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8518eb67-e952-4cfc-88bc-23777c2d5c4a" ID="100" CloseAfterStepID="100" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="f3645fa2-06fd-4817-a89f-9b9934a05d63" Version="9.2.2.0" Name="L_NRCA_4171_458996_19">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="dcf8a097-ce55-4a53-9070-9808e95c16d6" ID="101" CloseAfterStepID="101" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d07efe7f-107d-4d21-8d82-7ea7401ea30d" Version="9.2.2.0" Name="L_NRCA_4171_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="13ee4885-6c4d-4e26-8f7b-52e2680e0cdd" ID="102" CloseAfterStepID="102" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8d766aa2-fc0c-4927-b2e7-673424d021a9" Version="9.2.2.0" Name="L_NRCA_4171_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8cdd8a6c-2008-4be9-a829-eadbae99bc27" ID="103" CloseAfterStepID="103" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="0658e575-b50d-4bf9-b829-e3cf37c1f9f6" Version="9.2.2.0" Name="L_NRCA_4171_458996_17">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1fa23fb3-62c3-4059-a7d6-d33ea7216b99" ID="104" CloseAfterStepID="104" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5e55ec4a-f48f-4722-b2fe-5bdfdc7a92e2" Version="9.2.2.0" Name="L_NRCA_4171_458996_18">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8b508a66-c7b8-4fa1-97a4-cf7ca0574a28" ID="105" CloseAfterStepID="105" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="fd623401-35bf-443d-92d3-4828d127c314" Version="9.2.2.0" Name="L_NRCA_4171_458996_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="15e73d9f-fd66-465a-8d75-bfc62ff2acf7" ID="106" CloseAfterStepID="106" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="99f60586-360c-4cb1-8140-e5b3d94444d5" Version="9.2.2.0" Name="L_NRCA_4171_458996_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8d12680e-56f9-4aa9-af34-14b804dc7f37" ID="107" CloseAfterStepID="107" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ec1bef07-31dd-4a29-bcc0-9b107df6fa47" Version="9.2.2.0" Name="L_NRCA_4171_458996_10">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="aadffcae-3214-42f3-bd76-01febe01e98e" ID="108" CloseAfterStepID="108" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4334f66a-5438-4007-8fa9-17990782ae8c" Version="9.2.2.0" Name="L_NRCA_4171_458996_11">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d32e51f5-73a7-4a14-a54c-8969d9d15202" ID="109" CloseAfterStepID="109" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="592f5028-5550-4a88-bed8-85034eabea40" Version="9.2.2.0" Name="L_NRCA_4171_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d0c3bfb0-4e7a-4233-a496-2417fc57935b" ID="110" CloseAfterStepID="110" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8e1cdd70-6101-48a6-8110-fdea1c8b757c" Version="9.2.2.0" Name="L_NRCA_4171_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="669456cf-8593-425c-8aac-487dcc9c7dd9" ID="111" CloseAfterStepID="111" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="24c93247-bc08-4f30-8021-f42959b5dbd3" Version="9.2.2.0" Name="L_NRCA_4171_458996_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f9339427-ed9c-43cf-8d7b-ce254c11d762" ID="112" CloseAfterStepID="112" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="568e3aa5-775d-4509-939e-65f581e54802" Version="9.2.2.0" Name="L_NRCA_4171_458996_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1724bbfb-43cc-487a-8036-b0874c8117d1" ID="113" CloseAfterStepID="113" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="92f10027-6298-46cb-9648-ab3ae16c7dfb" Version="9.2.2.0" Name="L_NRCA_4171_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c9906552-3e39-4fd8-bd4f-4948b7b56ec2" ID="114" CloseAfterStepID="114" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="bc8f92c6-446c-40bf-bfcb-4477674fad56" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c55194dc-4474-438e-bac9-1a0b0a99070f" ID="115" CloseAfterStepID="115" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="47322093-15f5-493b-899c-efaa1e531363" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3b7d72d2-52c4-4b64-b09c-e75760ad19e2" ID="116" CloseAfterStepID="116" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="67a2a0c6-f9f5-424b-a24f-91a985265ef9" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d63f31bf-1c34-45da-8b3e-24e9e5d1aab9" ID="117" CloseAfterStepID="117" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="f6390cd0-dd4e-47e3-86eb-3d5f30be9c9a" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3d75f4ee-d80e-4cab-8fb3-da373eb49d78" ID="118" CloseAfterStepID="118" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c546c0a9-5b4d-4ee8-80f7-80f401a782e6" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3030d3dd-d868-40e5-bbab-4b179f5ef99d" ID="119" CloseAfterStepID="119" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4beefc47-7465-42f2-9c77-83bb0bb0e907" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="288cb678-19ff-4d99-be8f-0aa2941d4216" ID="120" CloseAfterStepID="120" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="1f3675e4-83a2-435b-91d6-54a17c2243b7" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="563209f6-d4d2-471d-900b-38008e754255" ID="121" CloseAfterStepID="121" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="13b6dd71-3a4d-4150-91d2-89d4d88b1a51" Version="9.2.2.0" Name="L_NRCA_6641_458996_CDRX_OFF_DL_25_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c183859c-7cd5-48ab-a763-adaff2827dcb" ID="122" CloseAfterStepID="122" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="af813994-9402-44c6-b591-a05935f85f49" Version="9.2.2.0" Name="L_NRCA_6641_458996_CDRX_OFF_UL_27_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="602895fd-f671-4a7b-8ff1-038c299e915d" ID="123" CloseAfterStepID="123" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="a57365d5-1acb-43e2-8177-04514ac3e591" Version="9.2.2.0" Name="L_NRCA_6641_458996_CDRX_ON_DL_24_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="fbdcb5f0-0c03-4c52-880c-61bddae9286f" ID="124" CloseAfterStepID="124" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="adc62cb0-3d9d-4d90-96b1-d0820b011666" Version="9.2.2.0" Name="L_NRCA_6641_458996_CDRX_ON_UL_26_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="994e8812-089d-4c5d-ade1-09d94af8f102" ID="125" CloseAfterStepID="125" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="54576b4f-a3b2-4761-9285-0cc173c18def" Version="9.2.2.0" Name="L_NRCA_6641_458996_CDRX_Ping_Latency_23_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ec27f430-3545-4ee6-8967-ce9d738b5246" ID="126" CloseAfterStepID="126" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="62fe37e2-0f6b-473f-8fb2-2ba81d24b38c" Version="9.2.2.0" Name="L_NRCA_6641_458996_DL_Near_Cell_with_Scell_act_Deact_2_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b54dc6e8-2b93-4c73-80c0-19bb7400b993" ID="127" CloseAfterStepID="127" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="a914f6ed-b5f7-49ab-abcf-82deb15f5fb5" Version="9.2.2.0" Name="L_NRCA_6641_458996_RLF_Gradual_Diff_TDD_Cell_20_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a02830e6-ce04-4377-a9df-c2dcb0c3421a" ID="128" CloseAfterStepID="128" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ffb8a330-5c7b-4b24-8f8b-4697741e49e2" Version="9.2.2.0" Name="L_NRCA_6641_458996_UL_Near_Cell_with_Scell_act_Deact_4_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bd37af72-44f3-4df3-a980-05c25d74c5a8" ID="129" CloseAfterStepID="129" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="45ef8b9c-0d98-4035-9abc-853a606581b7" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_19">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9a941216-f883-4c87-ba2e-48556ea8c42b" ID="130" CloseAfterStepID="130" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="68f4bf0d-e259-4f4e-9306-80caadc47a2c" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bf8273c5-e70d-4c8e-9d0c-ea67bcbf41d2" ID="131" CloseAfterStepID="131" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6079822e-aaff-4359-a0a3-80fb71932ad6" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="19420911-c698-4c40-8284-b191abdc234c" ID="132" CloseAfterStepID="132" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5f447ac3-1ad7-4c54-86b2-5b7f657eadaa" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_11">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3c917d80-a41f-4e6d-b072-27fe3d6008c0" ID="133" CloseAfterStepID="133" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="b26cb2f7-c564-461c-b9ca-9a1c7cd1c6a2" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_17">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a5bf1b5e-2780-415a-b650-7f5622320179" ID="134" CloseAfterStepID="134" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4e49bb63-a207-43eb-b223-af95024ec943" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_18">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="97d30bb9-6885-4dff-9393-a79c2a55301f" ID="135" CloseAfterStepID="135" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ccbba472-c2a3-40de-a5cf-83ebe71f3762" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1cd5c7a5-5bc2-46cd-8acb-0794ef13d360" ID="136" CloseAfterStepID="136" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="cf161e32-ac91-424b-bdc1-f873ebd113fb" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6f099b52-908b-473a-9995-172a3af74a42" ID="137" CloseAfterStepID="137" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="1aca4cfb-bfa3-48fc-a540-8f1b2799d9d5" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_10">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5f1ff581-1000-4bd0-a6c7-5e78ffa768dd" ID="138" CloseAfterStepID="138" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ec41f520-898f-4c50-8a58-d5102f1d4cd5" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3dd971b2-a613-4d2e-89d4-7d4e4e49f14e" ID="139" CloseAfterStepID="139" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="67e4b4c3-2e56-4ab8-bef3-268c471613b3" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c29e5699-0e31-427a-818f-143bee0583ae" ID="140" CloseAfterStepID="140" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d7540f20-bd2b-461f-bd10-d5d89e374104" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="de360b3d-1741-4835-ad95-3b19d4118191" ID="141" CloseAfterStepID="141" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4edbc149-d12c-4d96-9eee-9c388ee18267" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e8fcc447-0e58-487a-8360-aaf37c6fd076" ID="142" CloseAfterStepID="142" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="a1ab4580-c517-461f-8e92-f1c9010c6c4f" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="676150eb-1d2e-43fc-ae19-c97e8b560f1a" ID="143" CloseAfterStepID="143" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="af84af1d-b7bf-4e14-a8d4-05311a02df65" Version="9.2.2.0" Name="L_5G_CA_458996_25_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="923f6023-0b99-408b-bacf-3007298b39cb" ID="144" CloseAfterStepID="144" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d9bcfbd4-1b24-4451-a4ea-2db52566d8a4" Version="9.2.2.0" Name="L_5G_CA_458996_27_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5f5e4c48-da75-4ade-877d-e39cfacfc10d" ID="145" CloseAfterStepID="145" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d9ef1b9d-1351-4bb0-9e96-416df8ad7e66" Version="9.2.2.0" Name="L_5G_CA_458996_24_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f2f6eefb-46e7-4023-8823-ef161f150f19" ID="146" CloseAfterStepID="146" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="aa045cec-949d-4b88-97c9-7b79f6e21017" Version="9.2.2.0" Name="L_5G_CA_458996_26_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a593dbde-a919-49cc-ba0d-68315218b054" ID="147" CloseAfterStepID="147" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4a114183-73d8-430d-9894-0a8d6fc4b888" Version="9.2.2.0" Name="L_5G_CA_458996_23_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5c1c7279-25a7-4176-96b2-6f237f5b315a" ID="148" CloseAfterStepID="148" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="187d65fd-1248-4fef-b9d2-fdbe4b71c313" Version="9.2.2.0" Name="L_NRCA_458996_DL_Near_Cell_with_Scell_actDeact_2_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e5276a8c-696b-4112-8107-0d8f171a325f" ID="149" CloseAfterStepID="149" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4096c803-50c5-45b0-a42f-08c283fc145b" Version="9.2.2.0" Name="L_NRCA_458996_UL_Near_Cell_4_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0874772b-4fc3-401c-bc1a-692b9eeeb87d" ID="150" CloseAfterStepID="150" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="3c0fc3f4-d336-4a58-a596-b2a5f162e385" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_13">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="db6a0b0d-cef3-47ff-84bb-c3fbc2bc7d1d" ID="151" CloseAfterStepID="151" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6d27ce4a-48ec-4af7-a315-ec37c44e5f1a" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_14">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5c99714d-882f-4e77-a3ca-82d76ad085b5" ID="152" CloseAfterStepID="152" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="154729b6-224c-47ae-9f59-961375815745" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_16">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="63f1a2b2-fa83-4e1c-8c74-66723f88ffcf" ID="153" CloseAfterStepID="153" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="97b36ffd-f6c6-4637-bb33-7eecab42421e" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_15">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b4f7a3ef-d929-4773-8351-ced262e89f31" ID="154" CloseAfterStepID="154" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5e559399-b219-4a75-af39-662b2e3d5aef" Version="9.2.2.0" Name="L_NRCA_41_2A_458996_1_12">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5f637b43-d99d-4d95-8466-f3c1ea236a4e" ID="155" CloseAfterStepID="155" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6da6bb9a-700b-49e8-9cd3-0abb975879a3" Version="9.2.2.0" Name="L_NRCA_4166_458996_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1ee20971-4520-47a1-9b8a-f30b8bf65588" ID="156" CloseAfterStepID="156" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="eff12928-12b4-4cb9-94ed-052ead4ce87b" Version="9.2.2.0" Name="L_NRCA_4166_458996_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="089090ea-e80c-4255-b498-062863b89598" ID="157" CloseAfterStepID="157" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="142575e3-44b3-4231-8664-6f8353cb148d" Version="9.2.2.0" Name="L_NRCA_4171_458996_13">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="416a5bb8-c91c-42c8-842a-9ff823757597" ID="158" CloseAfterStepID="158" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="edb5994b-ef38-402e-8584-b6435b3e13a8" Version="9.2.2.0" Name="L_NRCA_4171_458996_14">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="35cd8cae-f77c-4a90-b131-9c85bbd4252b" ID="159" CloseAfterStepID="159" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="b40f8f83-9bd9-459e-94b4-596c107bd69e" Version="9.2.2.0" Name="L_NRCA_4171_458996_16">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="12c2dd8d-1365-4487-a464-b5d81d5bd841" ID="160" CloseAfterStepID="160" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="79b85865-75ab-4566-ae26-ddcd5defcff0" Version="9.2.2.0" Name="L_NRCA_4171_458996_15">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9ec0a901-7cba-4104-885d-e72ffbe40e41" ID="161" CloseAfterStepID="161" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="0f8b117a-3037-4bbe-ae19-767fdbe860b4" Version="9.2.2.0" Name="L_NRCA_4171_458996_12">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="cb63e98a-3aa3-426a-8bf8-cbce4cd8e831" ID="162" CloseAfterStepID="162" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="edc1a82d-3b33-4abf-a1d7-239b2589a93d" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="dde1adb1-174b-456a-8977-e18ac9f62c5f" ID="163" CloseAfterStepID="163" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="0626a679-d9dc-460c-a750-3bea193b5b17" Version="9.2.2.0" Name="L_NRCA_41_2C_458996_1_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b9bfb93b-a2c1-4f6c-b86a-a973def321fd" ID="164" CloseAfterStepID="164" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="50dfa38b-ac46-4c0e-b18a-5030fc3ac1d0" Version="9.2.2.0" Name="L_NRCA_6641_458996_Intra_gNB_Intra_frequency_HO_17_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="848e90dc-6c95-4ba5-85b9-c50376c41069" ID="165" CloseAfterStepID="165" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ee22d078-9439-4c52-9e3f-efdd2743a5e4" Version="9.2.2.0" Name="L_NRCA_6641_458996_Intra_gNB_Intra_frequency_PCell_HO_15_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2a3919a8-c052-49c3-b991-ccd101bb556a" ID="166" CloseAfterStepID="166" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="14ac6ee2-7e60-448f-9e5f-e742b663aa76" Version="9.2.2.0" Name="L_NRCA_71B_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ddb2e442-dd7c-49f9-96a6-da4d1ca7fbad" ID="167" CloseAfterStepID="167" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="673e0125-c493-4342-bfff-ad196e57f4e1" Version="9.2.2.0" Name="L_NRCA_71B_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bc027067-d383-489e-aa88-196b611f2e06" ID="168" CloseAfterStepID="168" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="66237420-2585-4158-9c00-a5f2a362a657" Version="9.2.2.0" Name="L_NRCA_71B_458996_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="778cb0ff-e41a-472a-a077-c59fe1beb99a" ID="169" CloseAfterStepID="169" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="77baef9f-7b55-4971-a016-cc471edc2ba1" Version="9.2.2.0" Name="L_NRCA_71B_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="77cc5315-c327-4675-a4f4-fba438fe2a1d" ID="170" CloseAfterStepID="170" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="f89397d4-777e-4978-b15a-562d9e010d18" Version="9.2.2.0" Name="L_NRCA_71B_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b03da3a1-4e66-4b28-aebe-0cb501d5ba25" ID="171" CloseAfterStepID="171" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="08468b7a-6139-4fa4-809f-81d5bb8bfb36" Version="9.2.2.0" Name="L_NRCA_71B_458996_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="aba8aae1-8049-41f8-8710-db48be0e6014" ID="172" CloseAfterStepID="172" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="f018adfb-ee8f-475b-82d4-1af112501497" Version="9.2.2.0" Name="L_NRCA_71B_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1c363b14-5977-4097-8e8a-8d352458f4c1" ID="173" CloseAfterStepID="173" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="345ec61e-c9f2-4787-85e1-5072849b0e2c" Version="9.2.2.0" Name="L_NRCA_7725_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1752b78a-4fb7-4673-85f0-202ebdeac689" ID="174" CloseAfterStepID="174" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c04a8265-266f-48a2-bb21-180e92f966c6" Version="9.2.2.0" Name="L_NRCA_7725_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="13b6cc84-5ad3-4bd6-8100-df57552c7342" ID="175" CloseAfterStepID="175" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="e3f7fd4d-8461-4ebd-b944-1e91e2899e0c" Version="9.2.2.0" Name="L_NRCA_7725_458996_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="554f90df-27c3-41f3-8fbc-fc7f30befaa6" ID="176" CloseAfterStepID="176" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4013ccca-c4ed-4b40-89d1-dd0cc9b98339" Version="9.2.2.0" Name="L_NRCA_7725_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4b2007c3-7ba9-467d-aa69-f63ad0857e7d" ID="177" CloseAfterStepID="177" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="767d0ae9-b879-46fe-9ddc-e3e7b009325f" Version="9.2.2.0" Name="L_NRCA_7725_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c57cc9f8-9b74-46fb-8dfd-8d7845188747" ID="178" CloseAfterStepID="178" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d883cf14-96d4-4bd0-9987-dde43600da81" Version="9.2.2.0" Name="L_NRCA_7725_458996_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c46ea3bb-da5a-4ff3-9077-934687feffd7" ID="179" CloseAfterStepID="179" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6a4d1a47-1474-4baa-8530-5448b4bbd401" Version="9.2.2.0" Name="L_NRCA_7725_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7664a290-eb57-4bfa-b98e-eb3c35bd9d18" ID="180" CloseAfterStepID="180" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="015691b2-2ec1-45d0-a74f-f7c96565011d" Version="9.2.2.0" Name="L_NRCA_7741_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c044795d-ff97-43ee-b6aa-305332762990" ID="181" CloseAfterStepID="181" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="2ff7ccbc-fe5a-4ecc-ad1b-e46b44294c2a" Version="9.2.2.0" Name="L_NRCA_7741_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bd973521-345a-4739-a086-bebf03e17585" ID="182" CloseAfterStepID="182" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="9439954b-749d-4127-b6d6-36e28f3e70b2" Version="9.2.2.0" Name="L_NRCA_7741_458996_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8978409a-6e80-47f6-9b7d-9b8f3fae1329" ID="183" CloseAfterStepID="183" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="27ea2a2b-5d80-4b6e-b4e1-28f3b0b9321e" Version="9.2.2.0" Name="L_NRCA_7741_458996_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="da71e57d-b524-4cdb-842c-4db81b062b91" ID="184" CloseAfterStepID="184" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1afef035-56ac-4daf-97cf-23eb651efaee" Version="9.2.2.0" Name="L_NRCA_7741_458996_10">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f4698228-acc6-435d-974b-15686d37851f" ID="185" CloseAfterStepID="185" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="25955151-9cf0-4518-9b34-8215b215ae23" Version="9.2.2.0" Name="L_NRCA_7741_458996_11">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="99978bf8-d8c3-46dd-aa38-ed3cea415721" ID="186" CloseAfterStepID="186" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="740e299e-b125-43c7-aa7b-6fa6d9e90d96" Version="9.2.2.0" Name="L_NRCA_7741_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="dc2dcd65-1612-4d65-babe-5a03b2bccb59" ID="187" CloseAfterStepID="187" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="2991920e-b6f0-4d20-8951-bb1fce515edb" Version="9.2.2.0" Name="L_NRCA_7741_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3e4d470e-b143-42b7-a85d-ed8f7c6c55fd" ID="188" CloseAfterStepID="188" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="3e3ef0b9-bad2-42b4-91a3-a9ac11afea3b" Version="9.2.2.0" Name="L_NRCA_7741_458996_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9a2ef53d-88a0-40b7-a71d-08a6b435eb53" ID="189" CloseAfterStepID="189" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d90eb94f-7e64-4bd8-bcb9-a817a37b8078" Version="9.2.2.0" Name="L_NRCA_7741_458996_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="be0ae6f8-f72a-4dd2-aa94-4bf8b02bbcd4" ID="190" CloseAfterStepID="190" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ac7e45b6-2cbd-4edb-ae44-428d86f8823c" Version="9.2.2.0" Name="L_NRCA_7741_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="44740b05-999a-42b6-b492-b6be3c60c910" ID="191" CloseAfterStepID="191" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="31d22a0d-ede2-4d58-852c-80a2649caa37" Version="9.2.2.0" Name="L_NRCA_7766_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0fdd491b-72ca-4fef-bff1-7afbc609778e" ID="192" CloseAfterStepID="192" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a25d2b5f-e968-465f-ae89-4426d7e04b06" Version="9.2.2.0" Name="L_NRCA_7766_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5e20bed0-3c05-4ab5-b921-48cc12b3dcc5" ID="193" CloseAfterStepID="193" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="70389d9a-31ca-4eac-a50e-ed3ba7d3bafa" Version="9.2.2.0" Name="L_NRCA_7766_458996_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="63595bb0-615d-4095-bb4c-289e2ed690e8" ID="194" CloseAfterStepID="194" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="bb0bac47-7feb-427d-9fb4-e182020c8776" Version="9.2.2.0" Name="L_NRCA_7766_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4bd9d0f0-c417-449c-9275-394db27949db" ID="195" CloseAfterStepID="195" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c8c73f16-b612-4880-bbe6-69ae62f1152e" Version="9.2.2.0" Name="L_NRCA_7766_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="36287857-52d1-4e30-813b-67b2c0946c3e" ID="196" CloseAfterStepID="196" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4c925443-cd4b-4768-b5e4-9971faf76e80" Version="9.2.2.0" Name="L_NRCA_7766_458996_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c10fcac9-b47a-4171-8418-60bafd9c46f8" ID="197" CloseAfterStepID="197" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="e32d7559-599e-406b-be1b-d7c70ed0c162" Version="9.2.2.0" Name="L_NRCA_7766_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d9dd47d7-5f14-4dc9-8c4d-e9b39e5b2ee7" ID="198" CloseAfterStepID="198" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="01666df0-ca68-4d79-bbd6-7cff4f6fae0f" Version="9.2.2.0" Name="L_NRCA_7771_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="21ac18a0-11f2-436c-af3d-0b47181ceef5" ID="199" CloseAfterStepID="199" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="eb8ca35d-a59c-4af4-948b-e453fea74452" Version="9.2.2.0" Name="L_NRCA_7771_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5b67ceeb-791a-47e8-80f8-4145ef0b8091" ID="200" CloseAfterStepID="200" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d57ac6ff-1e9d-40ed-bbcf-bea5c462c944" Version="9.2.2.0" Name="L_NRCA_7771_458996_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b77a4e44-88a0-4f1a-8496-046a1b142be2" ID="201" CloseAfterStepID="201" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="f5531665-4b8c-4f43-b850-2568780fae32" Version="9.2.2.0" Name="L_NRCA_7771_458996_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b1b88b27-e8db-4eec-beb5-63e8c51eeec9" ID="202" CloseAfterStepID="202" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6efce8b0-d715-4809-bee2-731ae3b20705" Version="9.2.2.0" Name="L_NRCA_7771_458996_10">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6d36fcb6-264a-458c-bcae-da2402388ccb" ID="203" CloseAfterStepID="203" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="56db1f81-ea4a-4ecc-95eb-d13b27ff270f" Version="9.2.2.0" Name="L_NRCA_7771_458996_11">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1154b3f5-6608-4221-84dd-45bd1bc6156c" ID="204" CloseAfterStepID="204" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="2d23c57d-cde8-44b8-a925-c21ad5b3c641" Version="9.2.2.0" Name="L_NRCA_7771_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b28000dd-c8d4-4027-ac31-894617ab4082" ID="205" CloseAfterStepID="205" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="a39f1eeb-ac8b-479b-8c6c-1c7fcce72f58" Version="9.2.2.0" Name="L_NRCA_7771_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a5238721-cdd8-4c55-aa58-a26a3e267a75" ID="206" CloseAfterStepID="206" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="74474a37-1348-4cf3-ad5d-cdd66cb64593" Version="9.2.2.0" Name="L_NRCA_7771_458996_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="55c93407-ce55-4a12-b044-0a46144c4424" ID="207" CloseAfterStepID="207" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="06ed9a17-2a2c-4bfd-aa7d-7f9a7f9af5ac" Version="9.2.2.0" Name="L_NRCA_7771_458996_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1dfae989-5108-4ce8-9823-131c30330660" ID="208" CloseAfterStepID="208" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="cf404a19-c0ce-44b3-8736-d1c7927d2cd5" Version="9.2.2.0" Name="L_NRCA_7771_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5bd8747f-071e-4926-8d7e-c2e76ef098cf" ID="209" CloseAfterStepID="209" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="2c334adb-b442-406d-bd70-81e8c0e051b2" Version="9.2.2.0" Name="L_NRCA_2541_458996_DSS_NRCA_28_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="966c8325-f4de-499c-af93-d54966e4956c" ID="210" CloseAfterStepID="210" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="83b845d7-eae9-4e8e-ab8c-2d528efa8f0e" Version="9.2.2.0" Name="L_NRCA_2541_458996_Intra_gNB_Intra_frequency_HO_17_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f7b0b330-75c4-42f4-97d5-93f9260c4caf" ID="211" CloseAfterStepID="211" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="44a68b7c-ec91-4d06-8f5e-44c5570fa5c0" Version="9.2.2.0" Name="L_NRCA_2541_458996_Intra_gNB_Intra_frequency_PCell_HO_15_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9804bed3-12d9-4e89-a5b8-8dcbf5a43a82" ID="212" CloseAfterStepID="212" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6ca90ce9-2dc7-44e2-b614-0cc59657f972" Version="9.2.2.0" Name="L_NRCA_2541_458996_Intra_gNB_Intra_frequency_SCell_HO_16_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9a1ae06f-4804-4eeb-ba70-1f64d499ebf0" ID="213" CloseAfterStepID="213" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1c918f85-a8af-4712-9fea-455903936106" Version="9.2.2.0" Name="L_NRCA_2571_DL_Near_Cell_with_Scell_Act_Deact_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f4601d8d-b5d4-40ef-a195-7a77376e5418" ID="214" CloseAfterStepID="214" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ee93446a-a537-480c-8414-3ee89a8b0b48" Version="9.2.2.0" Name="L_NRCA_2571_E911_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="fe73dd5c-bd91-4e2c-8836-2832936c23b8" ID="215" CloseAfterStepID="215" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="05b52b26-e904-422a-885a-baff4a4f9db5" Version="9.2.2.0" Name="L_NRCA_2571_FDD_as_Pcell_NRCA_to_TDD_as_Pcell_NRCA_HO_8_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2d168ef1-1550-455a-812c-ee0a49f4e5b4" ID="216" CloseAfterStepID="216" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="cb7c4ee2-8538-4045-a86e-59ade3b806ad" Version="9.2.2.0" Name="L_NRCA_2571_FDD_as_Pcell_NRCA_to_FDD_as_Pcell_HO_7_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e5f622d6-e0c3-45ae-87f0-d5d768f21517" ID="217" CloseAfterStepID="217" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="262e0ac7-5c77-41b3-929f-8ac895a7ab6d" Version="9.2.2.0" Name="L_NRCA_2571_FDD_as_Pcell_with_VoNR_MO_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="797f3708-df56-4800-89c0-d6c79a556a29" ID="218" CloseAfterStepID="218" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="7d107d49-c36d-4b45-92cf-9e0a124e0372" Version="9.2.2.0" Name="L_NRCA_2571_FDD_as_Pcell_with_VoNR_MT_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="deab8733-04b5-429c-9000-589b8982821f" ID="219" CloseAfterStepID="219" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="53755a04-87fb-4b7c-aafd-9c5854df3baa" Version="9.2.2.0" Name="L_NRCA_2571_UL_Near_Cell_with_Scell_Act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1bbec298-1fc7-4336-b689-e2778f904ae9" ID="220" CloseAfterStepID="220" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f76d374c-37e5-48b2-9901-09888fc54b77" Version="9.2.2.0" Name="L_NRCA_2571_Voice_Origination_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0ed7dce6-e8c1-4a01-9c5d-92fa2523ecff" ID="221" CloseAfterStepID="221" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="850d91ce-acad-4e3c-aab3-22c514259240" Version="9.2.2.0" Name="L_NRCA_2577_DL_Near_Cell_with_Scell_ActDeact_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="cbd77b0a-61b4-4f29-95bb-45ecd4954c0a" ID="222" CloseAfterStepID="222" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="27ad08e1-477b-491e-94e7-f144791d98aa" Version="9.2.2.0" Name="L_NRCA_2577_E911_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c2a16ffd-05f1-4ac3-bcd5-3be83110213b" ID="223" CloseAfterStepID="223" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="e5e583b6-4397-40c0-a11f-de179f98509e" Version="9.2.2.0" Name="L_NRCA_2577_FDD_as_Pcell_NRCA_to_TDD_as_Pcell_NRCA_HO_8_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d1c77a8e-48e5-4207-b8ba-cf03338c8f37" ID="224" CloseAfterStepID="224" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="570d0235-7314-40ec-bdd6-25ac3b58e338" Version="9.2.2.0" Name="L_NRCA_2577_FDD_as_Pcell_NRCA_to_FDD_as_Pcell_HO_7_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6deb45f6-2366-4925-be04-03fb976592fd" ID="225" CloseAfterStepID="225" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="62a19d94-1a9f-4335-b1a4-67fb503e763a" Version="9.2.2.0" Name="L_NRCA_2577_FDD_as_Pcell_with_VoNR_MO_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bf5225af-8949-40ac-a869-aa291ad6ccce" ID="226" CloseAfterStepID="226" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4f05c9f6-6f81-459c-b7b1-c1dc0ba7fa23" Version="9.2.2.0" Name="L_NRCA_2577_FDD_as_Pcell_with_VoNR_MT_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="13089596-80c2-42d2-b01e-740a25fbc409" ID="227" CloseAfterStepID="227" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="9e009f6f-5747-4a0d-adbf-ad7ffabb235f" Version="9.2.2.0" Name="L_NRCA_2577_UL_Near_Cell_with_Scell_Act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c0dd46c7-873c-4942-a653-46b19d7ce5ff" ID="228" CloseAfterStepID="228" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="533d262e-ad57-4fa3-90de-4ffe74d9399f" Version="9.2.2.0" Name="L_NRCA_2577_Voice_Origination_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bab1283f-fd4c-423c-be37-566bc6df44ad" ID="229" CloseAfterStepID="229" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="49c4c20d-4c14-409b-8f0a-c56dee7c171e" Version="9.2.2.0" Name="L_NRCA_4177_DL_Near_Cell_with_Scell_Act_Deact_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="518cfe5d-d9b1-4634-8911-be4df2fc1141" ID="230" CloseAfterStepID="230" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="06c8e772-304b-4f28-bb0e-445702f2c04d" Version="9.2.2.0" Name="L_NRCA_4177_E911_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="fc14b076-acee-4f90-99d3-a5239ab96195" ID="231" CloseAfterStepID="231" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6bc1ceea-66b2-4d34-b885-6cdfb393513f" Version="9.2.2.0" Name="L_NRCA_4177_TDD_as_Pcell_NRCA_to_FDD_as_Pcell_NRCA_HO_8_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6825f17c-778e-4b70-b74b-8fd61d4ce5e1" ID="232" CloseAfterStepID="232" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ab7a6269-50fa-4a11-8d46-641a0e268d66" Version="9.2.2.0" Name="L_NRCA_4177_TDD_as_Pcell_NRCA_to_TDD_as_Pcell_HO_7_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="29c239c7-2ec2-4cc2-8c40-b1adf48262d0" ID="233" CloseAfterStepID="233" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d1b0794b-9392-4f8c-97c4-37407c6d5f5a" Version="9.2.2.0" Name="L_NRCA_4177_TDD_as_Pcell_with_VoNR_MO_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="139274ca-6790-4886-bd54-bb5a4106f81d" ID="234" CloseAfterStepID="234" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="1a3afe6d-f13b-441d-814b-e96b2e04b348" Version="9.2.2.0" Name="L_NRCA_4177_TDD_as_Pcell_with_VoNR_MT_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9bbdfaad-2679-4058-bd30-45c7e95952ea" ID="235" CloseAfterStepID="235" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="fcce8ac3-0374-4d5a-b911-a2d01197e5a7" Version="9.2.2.0" Name="L_NRCA_4177_UL_Near_Cell_with_Scell_Act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e2b69337-731b-44f9-96b2-49819310cb89" ID="236" CloseAfterStepID="236" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="0e1f0e20-8047-4a67-acd2-71ccce6a4781" Version="9.2.2.0" Name="L_NRCA_4177_Voice_Origination_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8e80e468-c08f-4ee3-84f9-e54dab83bae3" ID="237" CloseAfterStepID="237" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="eac0703e-7cfe-4310-aec3-63e4c656c686" Version="9.2.2.0" Name="L_NRCA_6641_458996_DSS_NRCA_28_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="44d45dbe-f3fb-4474-a28d-871d04287881" ID="238" CloseAfterStepID="238" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c8b4f54d-094e-485b-8c71-ed183bf33173" Version="9.2.2.0" Name="L_NRCA_6641_458996_Intra_gNB_Intra_frequency_SCell_HO_16_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2f86bb66-e387-4a2b-a40c-8cd3d4139a9c" ID="239" CloseAfterStepID="239" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="824e8ca3-55b6-4a08-b1bb-a5c8d6ad980f" Version="9.2.2.0" Name="L_NRCA_6671_DL_Near_Cell_with_Scell_Act_Deact_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ab1e751d-d91d-4f7e-a513-219d1368903c" ID="240" CloseAfterStepID="240" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="cd6c5834-35e3-4bc9-b5ad-0fcc30165f0a" Version="9.2.2.0" Name="L_NRCA_6671_E911_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="cd3f4e35-1fae-489b-9757-f9f449643f17" ID="241" CloseAfterStepID="241" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="8ef612ba-f6ab-4bb7-934b-f8700a553fc4" Version="9.2.2.0" Name="L_NRCA_6671_UL_Near_Cell_with_Scell_Act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e727e4c0-871c-4b74-af03-09a850f5aa25" ID="242" CloseAfterStepID="242" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="779ddd5d-40f4-46c4-ba62-078459718f0c" Version="9.2.2.0" Name="L_NRCA_6671_Voice_Origination_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="223425fa-5af9-4235-a80f-9741702608d3" ID="243" CloseAfterStepID="243" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d10952ce-7c70-4d71-8cbd-90b31c8dfeeb" Version="9.2.2.0" Name="L_NRCA_6677_DL_Near_Cell_with_Scell_Act_Deact_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3b6ef076-d28a-49de-99de-472381e2f5d6" ID="244" CloseAfterStepID="244" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="aa92a83f-bdeb-4efd-a407-c9148d0e2c57" Version="9.2.2.0" Name="L_NRCA_6677_E911_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="41f8f319-d10a-4b3f-aebc-8986b86278df" ID="245" CloseAfterStepID="245" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="7ac8a3d6-533a-46dc-b611-f301d354e5b3" Version="9.2.2.0" Name="L_NRCA_6677_UL_Near_Cell_with_Scell_Act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0d904926-7bfb-4d23-ab31-e831f16e007b" ID="246" CloseAfterStepID="246" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5d2c8818-a71e-4387-8056-3bd6ed0c8c7d" Version="9.2.2.0" Name="L_NRCA_6677_Voice_Origination_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b934ead0-5a5b-47ce-a279-e6eb72130b06" ID="247" CloseAfterStepID="247" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5eac1060-2795-43b6-82c4-bb186867c963" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_20">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="45b176d7-6fd7-4337-82fc-0d5cece446a6" ID="248" CloseAfterStepID="248" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c481759d-77e5-4185-9c77-ecda6de87530" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_16">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6e627f63-ad58-41e3-9493-c869d1200c6f" ID="249" CloseAfterStepID="249" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="13f569d2-c6a1-4bf1-9213-04d63b09ae87" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_15">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4d2bfcdd-7e34-474f-a42f-4f771a6dd79b" ID="250" CloseAfterStepID="250" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="af3f6f49-b662-42c8-b0b0-f9a968b0d2b8" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_12">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="998c558b-3c43-4568-8915-449fb71cda7b" ID="251" CloseAfterStepID="251" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="aef041c6-b962-43f0-8acd-80914d9f9fbf" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_13">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="55ff2bf6-56e7-4a10-83de-5c5f2c543d27" ID="252" CloseAfterStepID="252" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="892d2b9c-1ea3-44ef-aeb9-e4a32dbc8004" Version="9.2.2.0" Name="L_NRCA_71_2A_458996_1_14">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1138ea11-8417-4786-ad28-a73a78b07076" ID="253" CloseAfterStepID="253" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="2eaab0bb-1662-4e58-b1d3-08551a73dda6" Version="9.2.2.0" Name="L_5G_CA_458996_28_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1ace3829-a078-4cd5-b5a5-22dacaeb9b2d" ID="254" CloseAfterStepID="254" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="124daf86-bb0c-493d-bee9-a42939dd9d0b" Version="9.2.2.0" Name="L_5G_CA_458996_17_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="abdde0fb-1ebc-44bf-82d1-65f060065dd1" ID="255" CloseAfterStepID="255" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4151a215-9f38-4e99-a44b-73cbf1085d6f" Version="9.2.2.0" Name="L_5G_CA_458996_16_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="53d2c2ce-c912-4e25-ab97-d1c886b28503" ID="256" CloseAfterStepID="256" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="49dad1fa-cbcb-4faa-8986-755877c59e7e" Version="9.2.2.0" Name="L_NRCA_7177_DL_Near_Cell_with_Scell_Act_Deact_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a7aceebf-b08b-4743-906a-f2b90e0ec4c6" ID="257" CloseAfterStepID="257" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b76c8f88-7238-460e-ae0c-b144974ef57f" Version="9.2.2.0" Name="L_NRCA_7177_E911_4_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e09abe87-ae7b-4ef7-82d5-d5cc304350fa" ID="258" CloseAfterStepID="258" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="b80d5ea5-a6f6-4e69-816b-6f74f85a8995" Version="9.2.2.0" Name="L_NRCA_7177_UL_Near_Cell_with_Scell_Act_Deact_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="effc1a91-d49d-4956-b61f-e40751292921" ID="259" CloseAfterStepID="259" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6ec7f06f-23c4-442e-b64a-26936ea21058" Version="9.2.2.0" Name="L_NRCA_7177_Voice_Origination_Near_Cell_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1a2fbc8c-a7f8-46ec-8d54-99a0c8f2d09e" ID="260" CloseAfterStepID="260" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="2fd23efa-3927-494d-a478-fd78ae9a0a7e" Version="9.2.2.0" Name="L_NRCA_71B_458996_10">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c5bad979-be07-40eb-bc7e-a2cff5637711" ID="261" CloseAfterStepID="261" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="937baf66-f621-48ea-bae1-a1972e90701e" Version="9.2.2.0" Name="L_NRCA_71B_458996_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3e4e77e5-3f6c-4244-807a-06a0aebf2e1a" ID="262" CloseAfterStepID="262" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="27852e20-5f71-44e7-8503-bb8cb57f1fb0" Version="9.2.2.0" Name="L_NRCA_71B_458996_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a2800b6c-560d-4810-ad8e-2c1be217c296" ID="263" CloseAfterStepID="263" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="576eaab5-3e5a-4000-a159-8b74bf2b4961" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9ee930f8-8e7b-41ae-897e-1581d96a8ec9" ID="264" CloseAfterStepID="264" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="3b33276e-5dca-41bc-96fb-b5389a5acf9e" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="431430b5-bfa3-4c98-b11d-5eafaed720df" ID="265" CloseAfterStepID="265" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="4794ee77-6e0a-4d0e-a6fe-9608bb5bad94" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_16">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="15d4b93b-7e7f-4cc8-b087-71ca6c016087" ID="266" CloseAfterStepID="266" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="74c1db8d-c441-4bfb-8162-3f759512523e" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_10">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="57b91454-a65b-4e9d-bc2c-c5271ca5fde4" ID="267" CloseAfterStepID="267" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="380a584b-65dc-40dd-af39-6bb3a40ca6f5" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_11">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f734d724-7ddb-4c00-8280-74194f6269b5" ID="268" CloseAfterStepID="268" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5efba483-5cd8-42b8-8604-b15c5bb09bd2" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bdb92d53-19ba-4500-94a3-2c912bdee5f5" ID="269" CloseAfterStepID="269" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5e3e557f-f930-4565-b936-655784da4660" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="88c5a224-7125-4f34-92ee-6edad691e3d8" ID="270" CloseAfterStepID="270" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="558d29a3-450c-4fb8-a4bc-c6f8a679d229" Version="9.2.2.0" Name="L_NRCA_77_2A_458996_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ba58838b-4c4b-42e9-b4f5-d4ac4d88b8f3" ID="271" CloseAfterStepID="271" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="961a05f0-cf0f-487c-8163-e781e999f61f" Version="9.2.2.0" Name="L_NRCA_7725_458996_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a867208a-741c-4ec2-ab1d-a2a2e4edc877" ID="272" CloseAfterStepID="272" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ed952ecd-7425-4eba-ab15-3859884cfd42" Version="9.2.2.0" Name="L_NRCA_7725_458996_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1da4f2b2-78a9-4511-a518-7370928d232e" ID="273" CloseAfterStepID="273" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="80406458-37da-421e-90ae-9b61501766a9" Version="9.2.2.0" Name="L_NRCA_7741_458996_19">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bd24365d-c67a-419b-bd5b-b19be4ccd3e9" ID="274" CloseAfterStepID="274" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="a8c687aa-d080-4a8f-875d-5cadfa762b0f" Version="9.2.2.0" Name="L_NRCA_7741_458996_13">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a5c2a6c9-dfb0-4e64-878c-19f5898516fa" ID="275" CloseAfterStepID="275" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c3a27d6e-bbe8-41ec-8871-70b5d2f037e8" Version="9.2.2.0" Name="L_NRCA_7741_458996_14">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2ec84cdb-ca4f-40f3-8cbe-2f5ebfd1a9a3" ID="276" CloseAfterStepID="276" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c1d72049-e3f1-4c01-a2d1-a6709899b1c7" Version="9.2.2.0" Name="L_NRCA_7741_458996_17">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8cffe99f-787c-44ca-a5e6-cc2fdde21a47" ID="277" CloseAfterStepID="277" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="be9983b0-7e4e-4828-b5c6-a92f69f43d83" Version="9.2.2.0" Name="L_NRCA_7741_458996_18">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="caa3ef15-8048-4b0e-8dbd-260275f8de88" ID="278" CloseAfterStepID="278" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="86bacdd6-3b0f-4b96-8735-6aacc26d65ca" Version="9.2.2.0" Name="L_NRCA_7741_458996_16">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a49cc8b7-2bcd-483f-89e9-3219f8a765f1" ID="279" CloseAfterStepID="279" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d632ecf9-35c7-48af-a85f-b81626bffd52" Version="9.2.2.0" Name="L_NRCA_7741_458996_15">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b9cc9b8f-2393-4c57-9c81-b95fb09f1974" ID="280" CloseAfterStepID="280" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c13e5457-9cc9-4f68-a292-b4fe4af4d6d5" Version="9.2.2.0" Name="L_NRCA_7741_458996_12">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8a8f34c3-e8f1-4e89-9005-b234d287f258" ID="281" CloseAfterStepID="281" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="b76aa435-f827-4a9b-9822-4d2651ee7dc0" Version="9.2.2.0" Name="L_NRCA_7766_458996_9">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="85d1ec73-d958-49c0-aa7c-a8fbf98154ca" ID="282" CloseAfterStepID="282" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="172095fc-eaf2-47ce-95da-0c126a4f8e22" Version="9.2.2.0" Name="L_NRCA_7766_458996_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="bd2185d7-96eb-4947-8fa7-15ac24aa1671" ID="283" CloseAfterStepID="283" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6a6b4b41-7755-4429-8b14-e3b906cad065" Version="9.2.2.0" Name="L_NRCA_7771_458996_19">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a25eb72e-778d-4371-8f7c-13de1f048aff" ID="284" CloseAfterStepID="284" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="35447406-37fa-4901-83f9-a551de455c9a" Version="9.2.2.0" Name="L_NRCA_7771_458996_13">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="111c4ee5-5c71-4e27-b8b4-e2286ce1a52d" ID="285" CloseAfterStepID="285" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="cd7701c0-f3a8-4c88-9ee6-7555e0c9b6f0" Version="9.2.2.0" Name="L_NRCA_7771_458996_14">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4fe536d6-5db7-45dc-9fff-6485732de65b" ID="286" CloseAfterStepID="286" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="94a54299-8de3-488e-b7fc-8e182e9266eb" Version="9.2.2.0" Name="L_NRCA_7771_458996_17">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="05dfd29b-c5d2-4067-aaa4-b79de2d5b642" ID="287" CloseAfterStepID="287" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="52e52ae0-c842-4676-87d4-c6115e69317c" Version="9.2.2.0" Name="L_NRCA_7771_458996_18">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4b79218b-6c68-4a5a-8588-ccc4c6bf6c2d" ID="288" CloseAfterStepID="288" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="530e3fe6-56a6-4960-a99a-70eb1e7b8f05" Version="9.2.2.0" Name="L_NRCA_7771_458996_16">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7ecd000e-a1e3-4b22-b8f2-dcaf533a6e23" ID="289" CloseAfterStepID="289" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="d33997a6-3af5-4aa7-b807-20c31ab2a676" Version="9.2.2.0" Name="L_NRCA_7771_458996_15">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ac273e05-d80b-4292-91eb-5659ba62eae4" ID="290" CloseAfterStepID="290" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="96e085e6-bf26-4fde-8305-1cca8dd1f8db" Version="9.2.2.0" Name="L_NRCA_7771_458996_12">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="eb855b69-7d60-4c47-a1e5-bbd0032a7fcd" ID="291" CloseAfterStepID="291" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="02c58a53-50af-49c3-99ba-25ace0191f82" Version="9.2.2.0" Name="L_NSA_NRCA_17_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="962b0246-d5a1-4673-9926-5bf4de0b23d8" ID="292" CloseAfterStepID="292" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a5ebe3ee-265d-4908-a0c6-fccb292a6d2e" Version="9.2.2.0" Name="L_NSA_NRCA_19_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="025f7611-026d-4ac7-b42d-bc4026d90853" ID="293" CloseAfterStepID="293" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="fb59a14e-f8ed-4c98-ba78-5660076f9d8a" Version="9.2.2.0" Name="L_NSA_NRCA_20_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a71b0657-d977-4f61-8fc2-1adc4db03ff3" ID="294" CloseAfterStepID="294" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="abfb002b-fe01-47d6-b543-849996a3a6b1" Version="9.2.2.0" Name="L_NSA_NRCA_18_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e72c0737-0d0b-42f7-b1f9-4bff4ac1d439" ID="295" CloseAfterStepID="295" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="e77f8c2b-5579-4472-9868-b369464c51a8" Version="9.2.2.0" Name="L_NSA_NRCA_25_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b8de99e0-6a5e-4ec3-a865-3d27c7a0b8f2" ID="296" CloseAfterStepID="296" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="fdb84679-8d9d-4b7e-baf9-47575a102840" Version="9.2.2.0" Name="L_NSA_NRCA_27_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="56953569-d86f-4072-ae6f-a76b23dc9aa1" ID="297" CloseAfterStepID="297" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="6b7d8571-4967-498c-a1b4-394504d8812b" Version="9.2.2.0" Name="L_NSA_NRCA_28_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="92f2aa3a-35f5-4a15-a87a-f8bc9d32c9d0" ID="298" CloseAfterStepID="298" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="c1dfb058-a88b-48c8-bd86-21e0fd511c2f" Version="9.2.2.0" Name="L_NSA_NRCA_26_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7a6b9595-708c-4745-b8db-89ca01a0f90c" ID="299" CloseAfterStepID="299" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8376c7e5-8421-48a5-a615-6773217f40bf" Version="9.2.2.0" Name="L_NSA_NRCA_21_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2555ab3b-10d9-4752-8fde-17c81c660523" ID="300" CloseAfterStepID="300" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6641acf7-2c3c-4d3a-a466-59f4cbc83517" Version="9.2.2.0" Name="L_NSA_NRCA_23_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c88fc99f-921c-4e7f-986f-ce1957a84e89" ID="301" CloseAfterStepID="301" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ed147225-5bb7-4d6a-8efb-2c1a0d168a25" Version="9.2.2.0" Name="L_NSA_NRCA_24_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8b5d56a3-b4eb-451e-8cf4-653f82ab0376" ID="302" CloseAfterStepID="302" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="2b7581fb-8a77-487e-89c5-3669ccde165b" Version="9.2.2.0" Name="L_NSA_NRCA_22_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="93c3b44b-854d-4c00-a224-8ffea3b8d233" ID="303" CloseAfterStepID="303" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="978a1a13-db3f-4a27-9e29-3a3e7ae3fc49" Version="9.2.2.0" Name="L_NSA_NRCA_33_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="32a72168-d922-47e7-a3f6-0a5a0c1644f1" ID="304" CloseAfterStepID="304" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d7fb7b5e-f1dc-431e-b4da-5c239a52d7b9" Version="9.2.2.0" Name="L_NSA_NRCA_35_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="04e01aec-c0cb-492f-b249-9748d41aedef" ID="305" CloseAfterStepID="305" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5750eba3-d0f9-4e92-aa2d-2ae52ccba6b4" Version="9.2.2.0" Name="L_NSA_NRCA_36_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e6d98f20-4c6e-436a-801b-ec490c1e3239" ID="306" CloseAfterStepID="306" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="75186ed5-4ead-4bbb-bcca-0b16a1056d10" Version="9.2.2.0" Name="L_NSA_NRCA_34_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="31776679-e1b1-4793-a486-904f126b2b35" ID="307" CloseAfterStepID="307" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="16fc013b-7255-4108-8a59-2869d27078af" Version="9.2.2.0" Name="L_NSA_NRCA_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="15252e64-1bde-4a65-895f-a834ba7407d8" ID="308" CloseAfterStepID="308" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b9864642-37d5-4ea3-a8ba-34812b9e38c1" Version="9.2.2.0" Name="L_NSA_NRCA_11_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ca69de76-4eb8-45f8-843f-5b904c958eec" ID="309" CloseAfterStepID="309" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="87525808-1d6f-41d8-bff4-2ec184eb8055" Version="9.2.2.0" Name="L_NSA_NRCA_12_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b6274fe5-6f27-44f0-88dd-6094d1ad2a0e" ID="310" CloseAfterStepID="310" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="5af9f7fb-0f1f-47df-ab1d-0b69e87ba115" Version="9.2.2.0" Name="L_NSA_NRCA_10_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ef73c470-e076-426c-b4d1-74c136c2b8f0" ID="311" CloseAfterStepID="311" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9b88d090-9b5d-48e9-a305-acaddf3fe39a" Version="9.2.2.0" Name="L_NSA_NRCA_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f55b45fe-2ebe-4ba0-b9ae-1a0cb2020134" ID="312" CloseAfterStepID="312" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="3b79569c-9579-4ddf-8fe0-0a0e6361bae6" Version="9.2.2.0" Name="L_NSA_NRCA_3">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="37f3152e-7656-4b0b-918e-ae2c46ff6e70" ID="313" CloseAfterStepID="313" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="95ad6861-3566-4438-9d0b-add8b9783ff4" Version="9.2.2.0" Name="L_NSA_NRCA_4">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f2fdec74-8adf-45c9-9fda-a5f75285c222" ID="314" CloseAfterStepID="314" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="447ecb9b-03c6-45da-a80c-c25bc2cf4000" Version="9.2.2.0" Name="L_NSA_NRCA_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3c85aa22-d792-414f-8b29-613fb6b2cd51" ID="315" CloseAfterStepID="315" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1cbedc26-7d02-480c-89b2-4f335a321bcf" Version="9.2.2.0" Name="L_NSA_NRCA_13_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ea2f3d3b-0cf0-4f82-973c-174e85548aa5" ID="316" CloseAfterStepID="316" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="62002221-fbfd-41d6-a108-bb19338f9132" Version="9.2.2.0" Name="L_NSA_NRCA_15_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9c60f54a-57bc-4b8c-a888-be359962e10b" ID="317" CloseAfterStepID="317" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="cfe2c051-97c2-4364-bed4-6dbd395cb2f1" Version="9.2.2.0" Name="L_NSA_NRCA_16_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="700f4864-3ab9-4639-8802-9b4b0b05f774" ID="318" CloseAfterStepID="318" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="9f84e70c-7769-4e4f-9bda-46b1747b804d" Version="9.2.2.0" Name="L_NSA_NRCA_14_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e87d0af0-3621-41eb-8e42-991071664371" ID="319" CloseAfterStepID="319" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="209ad0c5-8af0-4e91-ba27-8632992ac4b6" Version="9.2.2.0" Name="L_NSA_NRCA_5">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b84dcb11-6283-4342-8093-0409139c8852" ID="320" CloseAfterStepID="320" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6321c6b3-53c3-4261-9897-f7fa8d2bfdfa" Version="9.2.2.0" Name="L_NSA_NRCA_7">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ec6e85cf-072e-4d73-8bd2-12a445450c5b" ID="321" CloseAfterStepID="321" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="928fcd3b-959f-4489-9e8f-24b8b8276694" Version="9.2.2.0" Name="L_NSA_NRCA_8">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c8aa9e26-fe6d-47db-a3e0-ac61f66ae92b" ID="322" CloseAfterStepID="322" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="3309a561-a0fc-487d-8249-2737c2136aca" Version="9.2.2.0" Name="L_NSA_NRCA_6">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="8eb8dcc4-55b9-48ba-8571-2984f0c0c70c" ID="323" CloseAfterStepID="323" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6356ac82-3a66-4bc3-9d35-fe4f2c58c955" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="7aeeb8bf-0679-4cde-b8be-934748163c47" ID="324" CloseAfterStepID="324" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c335d9c3-6c21-462e-ada8-754fb48c9211" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4e2946f1-6d72-4679-b23a-5a90a33e81cd" ID="325" CloseAfterStepID="325" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f4ba6799-48bf-424b-859b-0cb8ab2df6f0" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6018ead6-3bd4-4feb-8df9-d26df2700986" ID="326" CloseAfterStepID="326" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="e008e8e3-baef-4302-a57c-56ed18ed3ea9" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a83d0d33-7a82-43a1-9954-b7bb41187109" ID="327" CloseAfterStepID="327" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a83396f3-836d-4316-900f-3aa81a721796" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6fd3fe28-5941-45e4-a7bd-3716aae3c947" ID="328" CloseAfterStepID="328" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d950195a-7867-4f92-8e26-60146af67b75" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="dedf614f-bd6b-4572-9a4d-d2ea9e7d67cd" ID="329" CloseAfterStepID="329" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ee763b13-c07a-483a-a98b-ada773761d8b" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f9419709-5ec8-4656-a0c3-4fb0a655a442" ID="330" CloseAfterStepID="330" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a71712f9-0077-4fe3-9bb6-9d6624ec5fb4" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f6e9d393-a2d3-48f6-88e2-461e714558fe" ID="331" CloseAfterStepID="331" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9ec2992c-7a6a-4fbf-9b61-831a900426bd" Version="9.2.2.0" Name="L_NRCA_25_2A_41A_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="14f7260c-587b-4ebe-bf9e-7ceb53ae9989" ID="332" CloseAfterStepID="332" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a5a268a4-04ac-4bba-b166-a8ec86858ecd" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ca99b9bb-19c5-4c29-ab8c-2a437dab5afb" ID="333" CloseAfterStepID="333" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="69ad5f4d-9bf8-41c9-b1a4-51c5b0dcf36c" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a9451440-6d23-4a64-ab13-511dfd195b80" ID="334" CloseAfterStepID="334" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b5bb0bdf-f6e8-4dee-bcf3-e4b47ade79b6" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="25962503-b89b-4ca4-bd50-c7ff422fda0c" ID="335" CloseAfterStepID="335" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="99b2ec20-5dde-4079-8c29-881afb78b4b0" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="49cf4d3b-1d28-4aff-afa0-3556c1114a9f" ID="336" CloseAfterStepID="336" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f6232867-b5a8-4b1f-bfbc-eedaab2932b0" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e98cfc88-62f9-48cc-b300-17a5e25a287b" ID="337" CloseAfterStepID="337" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d3985b51-5552-467b-9e36-2be72c715a82" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="026d5191-89e4-4732-8bc8-113e41049556" ID="338" CloseAfterStepID="338" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d96230d7-37de-4fa4-8b8a-071255c7e2ab" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9ae005c1-c579-4ce6-a22f-d256bfb56449" ID="339" CloseAfterStepID="339" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f8ba2f2d-f471-44b4-a9de-e2062efcd556" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="742f99c8-27ae-40b6-a713-776e8adb39ac" ID="340" CloseAfterStepID="340" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d6001283-c941-4dc0-8ddd-5c1b9c2daa4d" Version="9.2.2.0" Name="L_NRCA_25_2A_71A_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ceacfb6e-11aa-4d5f-98c6-a2220402484e" ID="341" CloseAfterStepID="341" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d251f623-89b8-4d55-8ee2-2a08bd7eb225" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1110a494-e57e-4db7-8aeb-d62d947953a0" ID="342" CloseAfterStepID="342" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="294fa423-81c5-4bf5-b9d4-1abacef650c7" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f97f4626-ae3f-47c1-98e5-f6fbe60424d4" ID="343" CloseAfterStepID="343" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="0e9fe377-5823-4d60-817e-ab14e04ad9d4" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="22022951-3b62-4657-8708-e79446863845" ID="344" CloseAfterStepID="344" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="64aa6ffc-8b5f-4b98-8a5a-22c1b1436f54" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4f77ca42-5b92-40e9-aaa2-2d32c49cc48b" ID="345" CloseAfterStepID="345" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ddc3bd1e-eafc-4263-9201-d7e1a5750026" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="241d4a2d-4e5d-4250-a437-dba76304a88a" ID="346" CloseAfterStepID="346" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="16be59e2-1604-4328-bb83-0149212eb360" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c4f9444c-3aff-48c3-a2d6-4334b90c80ac" ID="347" CloseAfterStepID="347" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="84691bcc-cfd7-486c-8a95-432f066de74a" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6b821e0a-f35d-4a9e-9a34-e6c0a7177348" ID="348" CloseAfterStepID="348" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="19780c2b-69c4-4949-9889-c4705474f870" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1edbc0e5-718c-4a42-b9dd-22712c492bc2" ID="349" CloseAfterStepID="349" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="0c10ed96-4dd5-41ae-8edb-c62f5a6f972b" Version="9.2.2.0" Name="L_NRCA_2541_2A_459014_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="876da06c-9322-48d5-b1a6-1ba79f5823a4" ID="350" CloseAfterStepID="350" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="fa6de6a0-d0f6-4905-afa9-31ad6bf92144" Version="9.2.2.0" Name="L_NRCA_254171_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="720f167d-fa90-434d-8d45-42f4e8975b04" ID="351" CloseAfterStepID="351" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f4b688ab-3383-4ffa-941f-c15397c3d12a" Version="9.2.2.0" Name="L_NRCA_254171_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6fb62845-e6c9-4ff0-8967-0fc90858e5f8" ID="352" CloseAfterStepID="352" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="cf228387-a6e6-4824-afa2-72bc994de470" Version="9.2.2.0" Name="L_NRCA_254171_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="989e15af-b8cb-4807-ac30-93a9fd91415b" ID="353" CloseAfterStepID="353" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="f868cc29-be4e-4c2e-a46a-9ba6df8cd3fa" Version="9.2.2.0" Name="L_NRCA_254171_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d4d33765-a455-4273-8aca-b52783bed25a" ID="354" CloseAfterStepID="354" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="42fb8abc-bdda-4c6d-827e-f13bd2f805eb" Version="9.2.2.0" Name="L_NRCA_254171_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b17baf61-de6c-4c9e-b0ba-95cbf30cd2ba" ID="355" CloseAfterStepID="355" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="4ddfed4a-f6b5-4c29-a233-f55c70226c9f" Version="9.2.2.0" Name="L_NRCA_254171_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f1ca6220-1d35-4809-b4a2-3c73a25c21b8" ID="356" CloseAfterStepID="356" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="bc5b008a-fa4a-42d4-96ca-fbfca4802f7c" Version="9.2.2.0" Name="L_NRCA_254171_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="9a6229cf-834c-4018-bdc6-17287490fc69" ID="357" CloseAfterStepID="357" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ff00a466-f13b-4b7f-90af-a05a71233be5" Version="9.2.2.0" Name="L_NRCA_254171_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ff106da6-6056-4efb-9099-84ac8f67b6e1" ID="358" CloseAfterStepID="358" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="694f3772-cb05-4b22-a311-415be2cdc908" Version="9.2.2.0" Name="L_NRCA_2541C_459014_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="66d90328-911b-48eb-b8f1-a939f52b8dcb" ID="359" CloseAfterStepID="359" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="5c022e2f-ca57-4362-9079-b9b75676a940" Version="9.2.2.0" Name="L_NRCA_2541C_459014_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5fc6dc53-c419-4fb4-a576-0ea8cfaa4392" ID="360" CloseAfterStepID="360" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d2302c4b-7827-4771-b1c2-dd91150426e7" Version="9.2.2.0" Name="L_NRCA_2541C_459014_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4cddd6fe-6122-49ae-a207-499f9708c4e5" ID="361" CloseAfterStepID="361" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="68dcec96-f378-47e3-9972-22f029e2d4be" Version="9.2.2.0" Name="L_NRCA_2541C_459014_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4cbd8613-10f7-4273-a09d-bbd45373fb99" ID="362" CloseAfterStepID="362" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="108c4498-d565-4ead-b281-8c32f5e01426" Version="9.2.2.0" Name="L_NRCA_2541C_459014_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6fde57c9-39f4-4eae-8c66-383449759e17" ID="363" CloseAfterStepID="363" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1438815d-99fe-4359-8e1a-b1817249052e" Version="9.2.2.0" Name="L_NRCA_2541C_459014_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="3865092c-12e7-4ffb-9676-8e1925dd9c20" ID="364" CloseAfterStepID="364" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="50ea6736-ec63-478a-8fbd-f58390ddeb6b" Version="9.2.2.0" Name="L_NRCA_2541C_459014_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ae70d783-94f1-4260-879d-8a6742e6df2b" ID="365" CloseAfterStepID="365" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9de9752f-5fe2-4b1a-8d14-c6439888183e" Version="9.2.2.0" Name="L_NRCA_2541C_459014_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="fc303be9-e1c2-41ef-bb5f-9876fe0dd5b0" ID="366" CloseAfterStepID="366" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="2f39452e-1895-41b2-a856-d2f33f011b28" Version="9.2.2.0" Name="L_NRCA_2541C_459014_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="73ebcfd5-cd1b-42da-8f36-705b5ed6c5dd" ID="367" CloseAfterStepID="367" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="52387565-e185-460b-8a81-0717810a4ad3" Version="9.2.2.0" Name="L_NRCA_256671_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="955fd79f-2745-4500-b2d0-b2d123de00b2" ID="368" CloseAfterStepID="368" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="fed1ef6d-5c18-43fd-8467-c8212aa78592" Version="9.2.2.0" Name="L_NRCA_256671_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="15c3921b-6cb5-48c4-8b60-ccc85bcf058c" ID="369" CloseAfterStepID="369" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="857490d4-b161-4672-be5a-f900035baee3" Version="9.2.2.0" Name="L_NRCA_256671_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5cd30a21-1db7-4fc2-b720-ba761b3e8b2e" ID="370" CloseAfterStepID="370" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="e3125705-a17e-499b-960b-2c83ebb9d9b5" Version="9.2.2.0" Name="L_NRCA_256671_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="ee91c1fd-0024-472e-8430-8d6a2a643da6" ID="371" CloseAfterStepID="371" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b18a7cce-ef92-456e-92f9-c94996da5c82" Version="9.2.2.0" Name="L_NRCA_256671_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4c2dade3-ecbb-470f-a66e-9ea58b2bd234" ID="372" CloseAfterStepID="372" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="76465c0e-7437-47b3-86ed-981ccfa3470c" Version="9.2.2.0" Name="L_NRCA_256671_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f75f6a25-3bf6-4c84-b890-2b7ebf0e674b" ID="373" CloseAfterStepID="373" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="188fdaab-0c6c-4922-9ff7-05df2d4e1df4" Version="9.2.2.0" Name="L_NRCA_256671_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2ce16a42-1d26-4f5e-8d1a-2206c476d842" ID="374" CloseAfterStepID="374" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="6670309c-d4e2-4e7d-a51a-3bd8e4f6d70c" Version="9.2.2.0" Name="L_NRCA_256671_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="2e6c27e0-18ef-4954-8bd1-86d8ff9cc0b4" ID="375" CloseAfterStepID="375" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="d5d2a3b2-8bf8-4d09-8d61-0ec8c3b47425" Version="9.2.2.0" Name="L_NRCA_256671_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="eed9c3ec-9f69-4e44-9535-7317e8ce5d2f" ID="376" CloseAfterStepID="376" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="ddef4317-168c-4849-b04d-4232d3c2a9d0" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="af22fcf3-0030-4c07-9b62-642819849142" ID="377" CloseAfterStepID="377" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c3aa105c-1ad5-4759-94fa-3b8874aec780" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="1530ec59-7716-4eae-9730-95e9092803eb" ID="378" CloseAfterStepID="378" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="28fa6801-2bf0-477f-b424-e684c5f1528e" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="83068b36-a421-4fb0-b771-88d85e8d2e5a" ID="379" CloseAfterStepID="379" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="04b32f4c-69c6-4459-9bfa-f803b8d9a22e" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="f4199f3e-429e-48ca-bc23-5a21a3e665c1" ID="380" CloseAfterStepID="380" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ee4044db-447c-4802-9be2-079a43e1ded9" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_9_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4b11fbe9-511f-4fcc-9a76-0cc66233b9ca" ID="381" CloseAfterStepID="381" DisplayName="" Description="" Disabled="False" ReportFileName="">
+        <Test GUID="f4a0d730-a26e-47be-9040-a6a1b326b9c4" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="412d8dde-a551-4425-9438-55e460095d5d" ID="382" CloseAfterStepID="382" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="0e8b78fd-2800-42d1-81bf-df5b8d6cb18d" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="29cdebe3-672e-4f50-af69-7a2fb21aaaa4" ID="383" CloseAfterStepID="383" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="5303b201-0b76-4f48-ac1d-e2371d366661" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="980b3c04-46c1-4cba-9681-e29ad81d824a" ID="384" CloseAfterStepID="384" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="131e3660-c931-40c1-9ec9-bf09ddda8f5a" Version="9.2.2.0" Name="L_NRCA_2571_2A_459014_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d2233b5d-77c7-40f8-8ee4-7ef6692af9ba" ID="385" CloseAfterStepID="385" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="698758e0-0cb5-474d-8c04-3108d43a8d23" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="72beceef-394b-4c05-a9b6-854cba0ede96" ID="386" CloseAfterStepID="386" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="e1b1911a-255b-412b-98d4-bdae4e8e90f8" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="851694e8-5775-4d8d-9617-509a43e49a07" ID="387" CloseAfterStepID="387" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a09c9da4-70bf-4557-b2b3-3422a0e3e3ed" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="a5a6161e-d141-403a-a4c8-20613509f457" ID="388" CloseAfterStepID="388" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="092170d6-400f-48b7-a655-2b6b90519917" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c45c30c4-d3b7-4898-bbb8-b8075ee50441" ID="389" CloseAfterStepID="389" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="765acfc1-3373-4708-b498-6fa5b819fb85" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5daf5734-3e6e-46fb-a938-2c229a1cf3d9" ID="390" CloseAfterStepID="390" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="5abdc95c-2c88-44e5-b5c1-6500455644e8" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="e7b4f590-b894-4f91-938e-0c7ba03112a0" ID="391" CloseAfterStepID="391" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="91eb33ec-7642-4a73-8008-f036387c1a6c" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d9490041-82a0-441a-8eff-159f4cc4b4d6" ID="392" CloseAfterStepID="392" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="b79b3ebf-f57f-4b32-aa58-a545ef890e20" Version="9.2.2.0" Name="L_NRCA_4171_2A_459014_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="89d2b37e-4867-4c20-bcd7-d00197fa8365" ID="393" CloseAfterStepID="393" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="3dd92730-aef7-4e4f-a4d4-849b9321839f" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="72215498-84c4-4b0b-9458-04ade7109422" ID="394" CloseAfterStepID="394" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ccb4a76e-d845-423d-b3e2-9571170ad0d9" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6113af58-e936-4917-a72f-6d36f61fde51" ID="395" CloseAfterStepID="395" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="202cbb4c-4909-49da-9428-e4a4d654352b" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="5cf0f03e-8b7a-47aa-993c-a590f8c1f634" ID="396" CloseAfterStepID="396" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="c28a5e83-f071-41fa-b29a-0eceed5c94a3" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="d7982480-a05a-45bb-b221-46d4419f3fa5" ID="397" CloseAfterStepID="397" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="acd5c9a6-497d-4df2-8f03-b9c2e649f09c" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="89ea1404-9e6c-4d83-ba3a-fcb9fc461a44" ID="398" CloseAfterStepID="398" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="9d354d1d-d0ae-4966-882b-1e6ea7cd84ce" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="17a85765-4c5c-4ec8-96eb-54b2dc730895" ID="399" CloseAfterStepID="399" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="eb5295d6-1ce6-45f8-93f5-c461c43bfc95" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="6e3d1ea9-3051-4cf8-b9cb-4942865e4798" ID="400" CloseAfterStepID="400" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="287c43b6-3da5-432c-a4e8-7b1d12345581" Version="9.2.2.0" Name="L_NRCA_41_2A_71A_459014_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="dba92924-4fae-4a67-a230-c170cf95f5b9" ID="401" CloseAfterStepID="401" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="ec578c40-d2cb-4ac9-98ca-cf8a20d9954e" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_2_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="b650f20b-b118-4413-befd-021b896d4bd3" ID="402" CloseAfterStepID="402" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="cb991c23-e4bb-4b6b-a688-94a74a7919f8" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_2_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="47cd7e92-c14a-4297-8378-05347c8b2df1" ID="403" CloseAfterStepID="403" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="674accc7-455d-4c1e-adb0-638202d3e0bd" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_1_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="c2d9f883-75b8-47b5-ac63-1fb97e4d943b" ID="404" CloseAfterStepID="404" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="a820207b-265f-48d8-9e2b-bcf7aba38029" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_1_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="50affc7f-b548-4ea3-9c43-d497d879df1b" ID="405" CloseAfterStepID="405" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="748cdf11-ed07-4ff2-8c41-17ab2b7f1bb4" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_3_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="0759172a-a9cd-4f15-af2e-e44f3d119d12" ID="406" CloseAfterStepID="406" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8d7add87-9cf0-4547-bd24-e899e48e7cb6" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_3_2">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="eda57d98-2776-40f7-bad7-36bc881e3733" ID="407" CloseAfterStepID="407" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="8e132704-c0c2-4e6c-8461-8c1a6f77f06c" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_5_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+      <Step StepGUID="4866dffe-434d-41b3-90e7-8e1fe4f3512c" ID="408" CloseAfterStepID="408" DisplayName="" Description="" Disabled="True" ReportFileName="">
+        <Test GUID="1ad5d500-b336-4087-ae7d-bb6e35acfe69" Version="9.2.2.0" Name="L_NRCA_41C_71A_459014_6_1">
+          <Data Name="Testcase" Value="Run" />
+        </Test>
+      </Step>
+    </Sequence>
+    <DataStorage>
+      <Contest>
+        <TestplanEditor>
+          <Id>67ac03c4-4e1b-4b50-bc9d-f90a66171fc4</Id>
+          <Version>19.1.0.60000</Version>
+          <Name>CONTEST Default Testplan Editor (parameter-less)</Name>
+          <Settings>
+            <Filters />
+          </Settings>
+        </TestplanEditor>
+      </Contest>
+    </DataStorage>
+  </Testplan>
+</TestCenter>
